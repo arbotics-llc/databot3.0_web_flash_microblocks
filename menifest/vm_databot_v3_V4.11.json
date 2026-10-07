@@ -7,7 +7,7 @@
     {
       "chipFamily": "ESP32-S3",
       "parts": [
-        { "path": "https://github.com/arbotics-llc/databot3.0_web_flash_microblocks/raw/refs/heads/main/Fw/vm_databot_v3_V4.11.bin", "offset": 0 }
+        { "path": "https://raw.githubusercontent.com/arbotics-llc/databot3.0_web_flash_microblocks/main/Fw/vm_databot_v3_V4.11.bin", "offset": 0 }
       ]
     }
   ]
