@@ -1,0 +1,14 @@
+{
+  "name": "databot3.0",
+  "version": "V4.11",
+  "home_assistant_domain": "databot",
+  "new_install_prompt_erase": false,
+  "builds": [
+    {
+      "chipFamily": "ESP32-S3",
+      "parts": [
+        { "path": "https://raw.githubusercontent.com/arbotics-llc/databot2.0_web_flash/raw/main/Fw/databot2.0_V2.5.bin", "offset": 0 }
+      ]
+    }
+  ]
+}
